@@ -17,3 +17,9 @@
 **Integrated and cleaned sales data from multiple sources, implemented DAX measures for KPI calculations, and created visually compelling reports optimized for mobile view. 
 
 **Enabled dynamic filtering, drill-through capabilities, and automated data refresh to support business decision-making.
+
+![Image](https://github.com/user-attachments/assets/5631198c-551a-4970-9312-afc143bb5654)
+
+![Image](https://github.com/user-attachments/assets/39a00c0d-f8d9-4f7b-9064-5ad30f7ef683)
+
+![Image](https://github.com/user-attachments/assets/d30fc507-b819-4af4-90fa-7472c8d5ba3b)
